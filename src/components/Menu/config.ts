@@ -12,11 +12,11 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'Exchange',
-        href: 'https://exchange.sweetswap.finance/#/swap',
+        href: 'https://exchange.bestmemeswap.finance./#/swap',
       },
       {
         label: 'Liquidity',
-        href: 'https://exchange.sweetswap.finance/#/pool',
+        href: 'https://exchange.bestmemeswap.finance./#/pool',
       },
     ],
   },
